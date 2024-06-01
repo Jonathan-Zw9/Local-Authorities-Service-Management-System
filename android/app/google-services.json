@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582258479549",
+    "project_id": "laas-28fd9",
+    "storage_bucket": "laas-28fd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582258479549:android:fa8c89b083ed9f8e3f42d4",
+        "android_client_info": {
+          "package_name": "com.example.laas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJcAJ0abJkbrMsH1y3xL0uJFd9AHYOE1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
